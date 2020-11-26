@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom'
 function Landing(){
     return(
         <div id="page-landing">
-        <div className="content-wrapper">yarn
+        <div className="content-wrapper">
            <img src={logoImg} alt="happy"></img>
            
            <main>
